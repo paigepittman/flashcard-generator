@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ClozeCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paigepittman/flashcard-generator.git"
+  },
+  "author": "Paige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paigepittman/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/paigepittman/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
